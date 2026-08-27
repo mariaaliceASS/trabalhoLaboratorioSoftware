@@ -1,6 +1,6 @@
 # Diagrama de Casos de Uso
 
-*Sistema de Gerenciamento Familiar — 05 de julho de 2030, Criciúma - SC*
+*Sistema de Gerenciamento Familiar*
 
 ## Atores
 
