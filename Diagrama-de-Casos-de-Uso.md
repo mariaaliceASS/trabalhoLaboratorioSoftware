@@ -40,5 +40,3 @@
                                    ──▶ Criar listas de compras
                                    ──▶ Cadastrar usuário
 ```
-
-*(A imagem original do diagrama UML pode ser inserida aqui a partir do PDF da apresentação.)*
